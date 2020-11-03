@@ -1,4 +1,4 @@
-# data-cleaning-pandas (Project 2)
+# Data Cleaning Pandas (Project 2)
 
 ![alt text](https://i.insider.com/5d079bcedaa4824c6b6b7af6?width=1800&format=jpeg&auto=webp/to/img.png)
 
